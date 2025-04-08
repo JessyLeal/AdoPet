@@ -27,25 +27,6 @@ A aplicação testada simula um ambiente realista e dinâmico, com funcionalidad
 - Criação de testes com pré-condições e verificação de comportamentos esperados
 - Práticas de organização e manutenção de código de testes
 
-## 📂 Estrutura do Projeto
-
-│ ├── cypress/ 
-│ ├── downloads/ # Arquivos baixados durante os testes 
-│ ├── e2e/ # Casos de teste E2E 
-│ ├── fixtures/ # Arquivos de dados mockados para testes 
-│ ├── results/ # Relatórios de execução (pode variar por ferramenta usada) 
-│ ├── screenshots/ # Capturas de tela em caso de falha nos testes 
-│ ├── support/ # Comandos customizados e configuração global 
-│ └── videos/ # Gravações em vídeo dos testes (modo headless) 
-├── elements/ # (Opcional) Elementos ou seletores reutilizáveis 
-├── cypress.config.js # Arquivo principal de configuração do Cypress 
-├── cypress.env.json # Variáveis de ambiente (como URLs e credenciais) 
-├── package.json # Dependências e scripts do projeto 
-├── package-lock.json # Controle de versões das dependências 
-├── .gitignore # Arquivos e pastas ignoradas pelo Git 
-├── venv # Ambiente virtual para isolar as dependências do projeto
-└── README.md # Documentação do projeto
-
 
 ## ▶️ Como Executar
 
